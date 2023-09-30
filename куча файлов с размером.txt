@@ -1,0 +1,6 @@
+for /L %i IN (0,1,10) do fsutil file createnew D:\Тестировщик\файлв\ВыкусиНаКуси%i.txt 122880
+
+
+
+
+
